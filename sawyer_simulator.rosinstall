@@ -8,9 +8,9 @@
     version: master
 - git:
     local-name: sawyer_robot
-    uri: https://github.com/RethinkRobotics/sawyer_robot.git
-    version: master
+    uri: https://github.com/RyodoTanaka/sawyer_robot.git
+    version: kinetic-devel
 - git:
     local-name: sawyer_simulator
-    uri: https://github.com/RethinkRobotics/sawyer_simulator.git
-    version: master
+    uri: https://github.com/RyodoTanaka/sawyer_simulator.git
+    version: kinetic-devel
